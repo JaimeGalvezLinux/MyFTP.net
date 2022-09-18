@@ -1,0 +1,30 @@
+header {
+		width: 712px; 
+		height: auto;
+		margin-top: -5px;
+		margin-left: auto;
+		text-align: center;
+		margin-right: auto;
+		margin-bottom: 0px;
+		padding: 5px;
+		border: 1px solid transparent;
+	}
+
+footer {
+		clear: both;
+		width: 712px;
+		height: auto;
+		margin: 0px auto;
+		padding: 5px;
+		border: 1px solid transparent;
+		background-color: #fff;
+		text-align: center !important;
+	}
+line {	
+	
+		width: 800px;
+                height: auto;
+                margin: 0px;
+                padding: 10px;
+                background-color: grey;
+}
